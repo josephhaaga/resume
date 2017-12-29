@@ -1,0 +1,22 @@
+Data Mining Project
+ - identify dataset
+ - formulate questions
+ - mine data and generate results/visualizations
+
+Data Science Project
+ - identify dataset
+ - formulate questions that can be answered with a regression model
+  - EDA
+  - feature selection
+  - PCA
+  - Lasso regression
+ - make presentation and write paper
+
+ Data Warehousing Project
+  - stand up SQL instance
+  - insert some records
+   - automate ETL pipeline??
+  - stand up tableau connections
+  - enable team members to carry out analysis
+
+Visualization Project 
