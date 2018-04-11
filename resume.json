@@ -29,6 +29,17 @@
   },
   "work": [
     {
+      "company": "GWU Data Science Institute",
+      "position": "Lead Architect",
+      "website": "https://gwu.edu",
+      "startDate": "2017-11-01",
+      "summary": "Selected to be a founding member of GWU's DSI, aiding in bootstrapping the institute as well as supporting technical initiatives.",
+      "highlights": [
+        "Led deployment efforts in standing up a cloud-hosted information sharing environment for Virginia state agencies, alongside ODNI and AWS",
+        "Mentored students in Data Warehousing classes, providing guidance on their semester projects"
+      ]
+    },
+    {
       "company": "Grafik",
       "position": "Full Stack Developer",
       "website": "https://grafik.agency",
@@ -36,10 +47,10 @@
 
       "summary": "Grafik is a branding agency focused on crafting digital brands for B2B, B2C, Nonprofit and government clients worldwide.",
       "highlights": [
-        "Led architecture and development of CMS-driven solutions for clients like Strayer & Global Automakers",
-        "Contributed to the architecture and development of marketing websites for brands like Strayer, Ligado, Politico, Merritt Clubs, JBG and EYA.",
-        "Drastically reduced development timelines by building internal tools to streamline internal processes (structured QA spreadsheet with Slackbot integration to close developer-designer feedback loop and closely track live performance/completeness metrics)",
-        "Delivered customer persona insights by applying data mining & visualization techniques to client CRM & transactional data"
+        "Led architecture and development of CMS-driven solutions for clients like Strayer & Global Automakers, using Drupal 8 and Pimcore 5.",
+        "Contributed to the architecture and development of marketing websites for brands like Strayer, Ligado, Politico, Merritt Clubs, JBG and EYA. Developed on Drupal 7, Pimcore 4/5, and Wordpress.",
+        "Drastically reduced development timelines by building internal tools to streamline internal processes (structured QA spreadsheet with Slackbot integration to close developer-designer feedback loop and closely track live performance/completeness metrics). Built using Google Apps Script, Google Sheets, and Slack Webhooks.",
+        "Delivered customer persona insights by applying data mining & visualization techniques to client CRM & transactional data. Performed analysis using Tableau and Anaconda toolkit (Seaborn, Pandas, NumPy)."
       ]
     },
     {
@@ -50,8 +61,8 @@
       "endDate": "2016-07-25",
       "summary": "Gray Street Solutions is a boutique, digital-first creative agency, founded on the principle of bringing a “Fearlessly Agile” approach to online communications consulting, open-source web development, and social media campaign management.",
       "highlights": [
-        "Led development of a cross-platform mobile application to track a brand’s social media campaigns",
-        "Developed and maintained digital presences for a variety of trade organizations, defense companies, and nonprofit clients"
+        "Led development of a cross-platform mobile application to track a brand’s social media campaigns, using Apache Cordova and Adobe PhoneGap.",
+        "Developed and maintained digital presences for a variety of trade organizations, defense companies, and nonprofit clients. Developed on Wordpress and maintained on WPEngine managed hosting."
       ]
     },
     {
@@ -62,8 +73,8 @@
       "endDate": "2014-08-25",
       "summary": "Eastport Analytics is an analytics consulting group applying advanced analytics to uncover valuable insights and drive measurably better mission outcomes.",
       "highlights": [
-        "Developed automated spreadsheet parsers in Java 7",
-        "Merged GIS shapefiles with political ad spend data to determine campaign efficacy in Designated Market Areas"
+        "Developed automated spreadsheet parsers in Java 7.",
+        "Merged GIS shapefiles with political ad spend data to determine campaign efficacy in Designated Market Areas."
       ]
     },
     {
@@ -74,9 +85,9 @@
       "endDate": "2014-04-30",
       "summary": "@HomeRehab designs exercise devices and software to improve the continuum of care related to falls among the aging population.",
       "highlights": [
-        "Prototyped IoT orthopedic rehabilitative device on Arduino hardware in a dialect of C",
-        "Developed games to be played with the device to aid in gamification of proprioceptive rehabilitation exercises",
-        "Implement wireless modules, LCD screens, & various sensors/actuators within I/O constraints of a development board"
+        "Prototyped IoT orthopedic rehabilitative device on Arduino hardware in a dialect of C.",
+        "Developed games to be played with the device to aid in gamification of proprioceptive rehabilitation exercises.",
+        "Implement wireless modules (XBee), LCD screens, & various sensors/actuators within I/O constraints of a development board."
       ]
     }
   ],
@@ -86,10 +97,10 @@
       "position": "Coordinator & Volunteer",
       "website": "https://grafik.agency",
       "startDate": "2017-08-01",
-      "summary": "Introduce potential initiatives and coordinate CSR events",
+      "summary": "Introduce potential initiatives and coordinate CSR events.",
       "highlights": [
-        "Raised >$1000 for AIGA, providing scholarships for underrepresented design students in the DC area",
-        "Developed spreadsheet solution for long-term initiative planning, enabling tracking of the organization's impact on local, regional, and national levels"
+        "Raised >$1000 for AIGA, providing scholarships for underrepresented design students in the DC area.",
+        "Developed spreadsheet solution for long-term initiative planning, enabling tracking of the organization's impact on local, regional, and national levels."
       ]
     },
     {
@@ -97,7 +108,7 @@
       "position": "Kitchen Volunteer",
       "website": "http://some.org/",
       "startDate": "2011-04-01",
-      "summary": "Serving meals to marginalized people in the DMV area",
+      "summary": "Serving meals to marginalized people in the DMV area.",
       "highlights": []
     }
   ],
@@ -108,7 +119,7 @@
       "studyType": "M.Sc.",
       "startDate": "2017-08-01",
       "endDate": "2018-12-16",
-      "gpa": "",
+      "gpa": "3.92",
       "courses": [
         "Data Science",
         "Data Warehousing",
@@ -117,9 +128,11 @@
         "Machine Learning I",
         "Machine Learning II",
         "Time Series Analysis",
+	"Cloud Computing",
+	"Bayesian Methods",
         "Member of Graduate Consulting Club",
         "Member of MBA Business Analytics Club",
-        "Member of MS Data Science Student Council"
+        "President of MS Data Science Student Council"
       ]
     },
     {
@@ -184,7 +197,9 @@
         "OOP",
         "Functional Programming",
         "Design Patterns",
-        "Algorithmic Analysis"
+        "Algorithmic Analysis",
+	"RDBMS",
+	"MySQL/NoSQL"
       ]
     },
     {
@@ -197,13 +212,12 @@
         "NumPy",
         "NLP",
         "Classification",
-        "Regression/Linear Modelling",
+        "Regression/Linear Modeling",
         "Clustering/Unsupervised techniques",
         "SQL/NoSQL",
         "Elasticsearch & Logstash",
         "Tableau",
-        "ArcGIS",
-        "SAP HANA"
+        "ArcGIS"
       ]
     }
   ],
