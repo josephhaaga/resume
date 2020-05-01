@@ -235,7 +235,8 @@
                 "Ansible",
                 "Kubernetes",
                 "AWS"
-            ] 
+            ]
+        },
         {
             "name": "Software Development",
             "level": "",
