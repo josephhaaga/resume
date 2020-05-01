@@ -1,0 +1,16 @@
+{
+  "name": "jsonr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "handlebars": "^4.0.6",
+    "moment": "^2.18.1",
+    "phantomjs-prebuilt": "^2.1.14"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

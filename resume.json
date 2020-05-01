@@ -1,241 +1,265 @@
 {
-  "basics": {
-    "name": "Joseph Haaga",
-    "label": "Developer & Data Engineer",
-    "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAWKAAAAJDFlYzFiMjgyLTg5NDUtNDY4OS1iN2Q2LWM2Mzg5OTBlZjk2NQ.jpg",
-    "email": "haaga.joe@gmail.com",
-    "phone": "(240) 778-9695",
-    "website": "http://joehaaga.xyz",
-    "summary": "",
-    "location": {
-      "address": "39 S Hudson St.",
-      "postalCode": "VA 22304",
-      "city": "Alexandria",
-      "countryCode": "US",
-      "region": "Virginia"
+    "basics": {
+        "name": "Joseph Haaga",
+        "label": "Developer & Data Engineer",
+        "picture": "https://pbs.twimg.com/profile_images/684062598048817152/bMtG8lln_400x400.jpg",
+        "email": "haaga.joe@gmail.com",
+        "phone": "(202) 525-6891",
+        "website": "http://joehaaga.xyz",
+        "summary": "",
+        "location": {
+            "address": "2507 17th St NW Apt B",
+            "postalCode": "20009",
+            "city": "Washington",
+            "countryCode": "US",
+            "region": "D.C."
+        },
+        "profiles": [
+            {
+                "network": "Github",
+                "username": "josephhaaga",
+                "url": "https://github.com/josephhaaga"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "joseph-haaga",
+                "url": "https://www.linkedin.com/in/joseph-haaga/"
+            }
+        ]
     },
-    "profiles": [
-      {
-        "network": "Github",
-        "username": "josephhaaga",
-        "url": "https://github.com/josephhaaga"
-      },
-      {
-        "network": "LinkedIn",
-        "username": "joseph-haaga",
-        "url": "https://www.linkedin.com/in/joseph-haaga/"
-      }
-    ]
-  },
-  "work": [
-    {
-      "company": "Redhorse Corporation",
-      "position": "Data Scientist",
-      "website": "https://redhorsecorp.com",
-      "startDate": "2018-06-11",
-      "summary": "Redhorse Corporation, a program management and technology services company, provides integrated solutions in environmental consulting, energy and climate change, information technology, and intelligence.",
-      "highlights": [
-        "Designed and implemented a image recognition application for environmental science use case.",
-        "Experimented with different convolutional neural network architectures to maximize F1 score.",
-        "Built custom sklearn Pipeline components to take advantage of OpenCV preprocessing techniques.",
-        "Developed web-based utility resulting in a 10x decrease in time spent labelling training data."
-      ]
-    },
-    {
-      "company": "Grafik",
-      "position": "Full Stack Developer",
-      "website": "https://grafik.agency",
-      "startDate": "2016-08-01",
-      "endDate": "2018-06-01",
-      "summary": "Grafik is a branding agency focused on crafting digital brands for B2B, B2C, Nonprofit and government clients worldwide.",
-      "highlights": [
-        "Led architecture and development of CMS-driven solutions for clients like Strayer & Global Automakers, using Drupal 8 and Pimcore 5.",
-        "Contributed to the architecture and development of marketing websites for brands like Strayer, Ligado, Politico, Merritt Clubs, JBG and EYA. Developed on Drupal 7, Pimcore 4/5, and Wordpress.",
-        "Drastically reduced development timelines by building internal tools to streamline internal processes (structured QA spreadsheet with Slackbot integration to close developer-designer feedback loop and closely track live performance/completeness metrics). Built using Google Apps Script, Google Sheets, and Slack Webhooks.",
-        "Delivered customer persona insights by applying data mining & visualization techniques to client CRM & transactional data. Performed analysis using Tableau and Anaconda toolkit (Seaborn, Pandas, NumPy)."
-      ]
-    },
-    {
-      "company": "GWU Data Science Institute",
-      "position": "Lead Architect",
-      "website": "https://gwu.edu",
-      "startDate": "2017-11-01",
-      "endDate": "2018-05-01",
-      "summary": "Selected to be a founding member of GWU's DSI, aiding in bootstrapping the institute as well as supporting technical initiatives.",
-      "highlights": [
-        "Led deployment efforts in standing up a cloud-hosted information sharing environment for Virginia state agencies, alongside ODNI and AWS",
-        "Mentored students in Data Warehousing classes, providing guidance on their semester projects"
-      ]
-    },
-    {
-      "company": "Gray Street Solutions",
-      "position": "Developer",
-      "website": "https://graystreetsolutions.com",
-      "startDate": "2015-05-01",
-      "endDate": "2016-07-25",
-      "summary": "Gray Street Solutions is a boutique, digital-first creative agency, founded on the principle of bringing a “Fearlessly Agile” approach to online communications consulting, open-source web development, and social media campaign management.",
-      "highlights": [
-        "Led development of a cross-platform mobile application to track a brand’s social media campaigns, using Apache Cordova and Adobe PhoneGap.",
-        "Developed and maintained digital presences for a variety of trade organizations, defense companies, and nonprofit clients. Developed on Wordpress and maintained on WPEngine managed hosting."
-      ]
-    },
-    {
-      "company": "Eastport Analytics",
-      "position": "Jr. Solutioneer",
-      "website": "https://www.eastportanalytics.com/",
-      "startDate": "2014-05-01",
-      "endDate": "2014-08-25",
-      "summary": "Eastport Analytics is an analytics consulting group applying advanced analytics to uncover valuable insights and drive measurably better mission outcomes.",
-      "highlights": [
-        "Developed automated spreadsheet parsers in Java 7.",
-        "Merged GIS shapefiles with political ad spend data to determine campaign efficacy in Designated Market Areas."
-      ]
-    },
-    {
-      "company": "@HomeRehab",
-      "position": "Developer",
-      "website": "https://gust.com/companies/homerehab",
-      "startDate": "2013-05-01",
-      "endDate": "2014-04-30",
-      "summary": "@HomeRehab designs exercise devices and software to improve the continuum of care related to falls among the aging population.",
-      "highlights": [
-        "Prototyped IoT orthopedic rehabilitative device on Arduino hardware in a dialect of C.",
-        "Developed games to be played with the device to aid in gamification of proprioceptive rehabilitation exercises.",
-        "Implement wireless modules (XBee), LCD screens, & various sensors/actuators within I/O constraints of a development board."
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Grafik Gives",
-      "position": "Coordinator & Volunteer",
-      "website": "https://grafik.agency",
-      "startDate": "2017-08-01",
-      "summary": "Introduce potential initiatives and coordinate CSR events.",
-      "highlights": [
-        "Raised >$1000 for AIGA, providing scholarships for underrepresented design students in the DC area.",
-        "Developed spreadsheet solution for long-term initiative planning, enabling tracking of the organization's impact on local, regional, and national levels."
-      ]
-    },
-    {
-      "organization": "So Others Might Eat",
-      "position": "Kitchen Volunteer",
-      "website": "http://some.org/",
-      "startDate": "2011-04-01",
-      "summary": "Serving meals to marginalized people in the DMV area.",
-      "highlights": []
-    }
-  ],
-  "education": [
-    {
-      "institution": "The George Washington University",
-      "area": "Data Science",
-      "studyType": "M.Sc.",
-      "startDate": "2017-08-01",
-      "endDate": "2018-12-16",
-      "gpa": "3.92",
-      "courses": [
-        "Data Science",
-        "Data Warehousing",
-        "Data Mining",
-        "Visualization of Complex Data",
-        "Machine Learning I",
-        "Machine Learning II",
-        "Time Series Analysis",
-	"Cloud Computing",
-	"Bayesian Methods",
-        "Member of Graduate Consulting Club",
-        "Member of MBA Business Analytics Club",
-        "President of MS Data Science Student Council"
-      ]
-    },
-    {
-      "institution": "The George Washington University",
-      "area": "Computer Science",
-      "studyType": "B.Sc.",
-      "startDate": "2012-08-01",
-      "endDate": "2017-05-01",
-      "gpa": "",
-      "courses": [
-        "Circuit Theory",
-        "Bioinformatics",
-        "Algorithms",
-        "Software Engineering",
-        "Database Systems",
-        "Systems Architecture",
-        "Operating Systems",
-        "Machine Learning",
-        "Systems Programming",
-        "Artificial Intelligence Algorithms",
-        "Statistical NLP",
-        "DEEPQuest IBM Watson (essentially a supplement to Stat. NLP)"
-      ]
-    }
-  ],
-  "awards": [],
-  "publications": [],
-  "skills": [
-    {
-      "name": "Web Development",
-      "level": "",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript",
-        "PHP",
-        "LAMP Stack",
-        "MEAN Stack",
-        "ReactJS",
-        "NodeJS",
-        "Pimcore",
-        "Drupal 7/8",
-        "Wordpress",
-        "jQuery",
-        "d3js",
-        "Cordova/Phonegap",
-        "508 Compliance"
-      ]
-    },
-    {
-      "name": "Software Development",
-      "level": "",
-      "keywords": [
-        "Java",
-        "Python",
-        "BASH",
-        "Perl",
-        "Git",
-        "Docker",
-        "Unit Testing",
-        "TDD",
-        "OOP",
-        "Functional Programming",
-        "Design Patterns",
-        "Algorithmic Analysis",
-	"RDBMS",
-	"MySQL/NoSQL"
-      ]
-    },
-    {
-      "name": "Data Science",
-      "level": "",
-      "keywords": [
-        "R",
-        "Python",
-        "Pandas",
-        "NumPy",
-        "NLP",
-        "Classification",
-        "Regression/Linear Modeling",
-        "Clustering/Unsupervised techniques",
-        "SQL/NoSQL",
-        "Elasticsearch & Logstash",
-        "Tableau",
-        "ArcGIS"
-      ]
-    }
-  ],
-  "languages": [],
-  "interests": [],
-  "references": []
+    "work": [
+        {
+            "company": "Capital One"
+        },
+        {
+            "company": "Tylor Data Services",
+            "position": "Data Scientist",
+            "website": "http://tylordata.com/",
+            "startDate": "2018-10-02",
+            "summary": "TDS continues to deliver data science consulting, big data analytics, and custom computer programming services that are proven to address business challenges for government agencies, non-profit organizations and private corporations.",
+            "highlights": [
+                "Leading development of a graph analytics tool for fraud pattern detection in financial data graphs.",
+                "Supporting research in applying novel deep learning techniques to elicit graph embeddings."
+            ]
+        },
+        {
+            "company": "Redhorse Corporation",
+            "position": "Data Scientist",
+            "website": "https://redhorsecorp.com",
+            "startDate": "2018-06-11",
+            "endDate": "2018-10-01",
+            "summary": "Redhorse Corporation, a program management and technology services company, provides integrated solutions in environmental consulting, energy and climate change, information technology, and intelligence.",
+            "highlights": [
+                "Designed and implemented a image recognition application for environmental science use case.",
+                "Experimented with different convolutional neural network architectures to maximize F1 score.",
+                "Built custom sklearn Pipeline components to take advantage of OpenCV preprocessing techniques.",
+                "Developed web-based utility resulting in a 10x decrease in time spent labelling training data."
+            ]
+        },
+        {
+            "company": "Grafik",
+            "position": "Full Stack Developer",
+            "website": "https://grafik.agency",
+            "startDate": "2016-08-01",
+            "endDate": "2018-06-01",
+            "summary": "Grafik is a branding agency focused on crafting digital brands for B2B, B2C, Nonprofit and government clients worldwide.",
+            "highlights": [
+                "Led architecture and development of CMS-driven solutions for clients like Strayer & Global Automakers, using Drupal 8 and Pimcore 5.",
+                "Contributed to the architecture and development of marketing websites for brands like Strayer, Ligado, Politico, Merritt Clubs, JBG and EYA. Developed on Drupal 7, Pimcore 4/5, and Wordpress.",
+                "Drastically reduced development timelines by building internal tools to streamline internal processes (structured QA spreadsheet with Slackbot integration to close developer-designer feedback loop and closely track live performance/completeness metrics). Built using Google Apps Script, Google Sheets, and Slack Webhooks.",
+                "Delivered customer persona insights by applying data mining & visualization techniques to client CRM & transactional data. Performed analysis using Tableau and Anaconda toolkit (Seaborn, Pandas, NumPy)."
+            ]
+        },
+        {
+            "company": "GWU Data Science Institute",
+            "position": "Lead Architect",
+            "website": "https://gwu.edu",
+            "startDate": "2017-11-01",
+            "endDate": "2018-05-01",
+            "summary": "Selected to be a founding member of GWU's DSI, aiding in bootstrapping the institute as well as supporting technical initiatives.",
+            "highlights": [
+                "Led deployment efforts in standing up a cloud-hosted information sharing environment for Virginia state agencies, alongside ODNI and AWS",
+                "Mentored students in Data Warehousing classes, providing guidance on their semester projects"
+            ]
+        },
+        {
+            "company": "Gray Street Solutions",
+            "position": "Developer",
+            "website": "https://graystreetsolutions.com",
+            "startDate": "2015-05-01",
+            "endDate": "2016-07-25",
+            "summary": "Gray Street Solutions is a boutique, digital-first creative agency, founded on the principle of bringing a \u201cFearlessly Agile\u201d approach to online communications consulting, open-source web development, and social media campaign management.",
+            "highlights": [
+                "Led development of a cross-platform mobile application to track a brand\u2019s social media campaigns, using Apache Cordova and Adobe PhoneGap.",
+                "Developed and maintained digital presences for a variety of trade organizations, defense companies, and nonprofit clients. Developed on Wordpress and maintained on WPEngine managed hosting."
+            ]
+        },
+        {
+            "company": "Eastport Analytics",
+            "position": "Jr. Solutioneer",
+            "website": "https://www.eastportanalytics.com/",
+            "startDate": "2014-05-01",
+            "endDate": "2014-08-25",
+            "summary": "Eastport Analytics is an analytics consulting group applying advanced analytics to uncover valuable insights and drive measurably better mission outcomes.",
+            "highlights": [
+                "Developed automated spreadsheet parsers in Java 7.",
+                "Merged GIS shapefiles with political ad spend data to determine campaign efficacy in Designated Market Areas."
+            ]
+        },
+        {
+            "company": "@HomeRehab",
+            "position": "Developer",
+            "website": "https://gust.com/companies/homerehab",
+            "startDate": "2013-05-01",
+            "endDate": "2014-04-30",
+            "summary": "@HomeRehab designs exercise devices and software to improve the continuum of care related to falls among the aging population.",
+            "highlights": [
+                "Prototyped IoT orthopedic rehabilitative device on Arduino hardware in a dialect of C.",
+                "Developed games to be played with the device to aid in gamification of proprioceptive rehabilitation exercises.",
+                "Implement wireless modules (XBee), LCD screens, & various sensors/actuators within I/O constraints of a development board."
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Grafik Gives",
+            "position": "Coordinator & Volunteer",
+            "website": "https://grafik.agency",
+            "startDate": "2017-08-01",
+            "summary": "Introduce potential initiatives and coordinate CSR events.",
+            "highlights": [
+                "Raised >$1000 for AIGA, providing scholarships for underrepresented design students in the DC area.",
+                "Developed spreadsheet solution for long-term initiative planning, enabling tracking of the organization's impact on local, regional, and national levels."
+            ]
+        },
+        {
+            "organization": "So Others Might Eat",
+            "position": "Kitchen Volunteer",
+            "website": "http://some.org/",
+            "startDate": "2011-04-01",
+            "summary": "Serving meals to marginalized people in the DMV area.",
+            "highlights": []
+        }
+    ],
+    "education": [
+        {
+            "institution": "Georgia Tech",
+            "area": "Computer Science",
+            "studyType": "M.Sc.",
+            "startDate": "2019-01-01",
+            "courses": [
+                "Graduate Intro to Operating Systems"
+            ]
+        },
+        {
+            "institution": "The George Washington University",
+            "area": "Data Science",
+            "studyType": "M.Sc.",
+            "startDate": "2017-08-01",
+            "endDate": "2018-12-16",
+            "gpa": "3.92",
+            "courses": [
+                "Data Science",
+                "Data Warehousing",
+                "Data Mining",
+                "Visualization of Complex Data",
+                "Machine Learning I",
+                "Machine Learning II",
+                "Time Series Analysis",
+                "Cloud Computing",
+                "Bayesian Methods",
+                "Member of Graduate Consulting Club",
+                "Member of MBA Business Analytics Club",
+                "President of MS Data Science Student Council"
+            ]
+        },
+        {
+            "institution": "The George Washington University",
+            "area": "Computer Science",
+            "studyType": "B.Sc.",
+            "startDate": "2012-08-01",
+            "endDate": "2017-05-01",
+            "gpa": "",
+            "courses": [
+                "Circuit Theory",
+                "Bioinformatics",
+                "Algorithms",
+                "Software Engineering",
+                "Database Systems",
+                "Systems Architecture",
+                "Operating Systems",
+                "Machine Learning",
+                "Systems Programming",
+                "Artificial Intelligence Algorithms",
+                "Statistical NLP",
+                "DEEPQuest IBM Watson (essentially a supplement to Stat. NLP)"
+            ]
+        }
+    ],
+    "awards": [],
+    "publications": [],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "PHP",
+                "LAMP Stack",
+                "MEAN Stack",
+                "ReactJS",
+                "NodeJS",
+                "Pimcore",
+                "Drupal 7/8",
+                "Wordpress",
+                "jQuery",
+                "d3js",
+                "Cordova/Phonegap",
+                "508 Compliance"
+            ]
+        },
+        {
+            "name": "Software Development",
+            "level": "",
+            "keywords": [
+                "Java",
+                "Python",
+                "BASH",
+                "Perl",
+                "Git",
+                "Docker",
+                "Unit Testing",
+                "TDD",
+                "OOP",
+                "Functional Programming",
+                "Design Patterns",
+                "Algorithmic Analysis",
+                "RDBMS",
+                "MySQL/NoSQL"
+            ]
+        },
+        {
+            "name": "Data Science",
+            "level": "",
+            "keywords": [
+                "R",
+                "Python",
+                "Pandas",
+                "NumPy",
+                "NLP",
+                "Classification",
+                "Regression/Linear Modeling",
+                "Clustering/Unsupervised techniques",
+                "SQL/NoSQL",
+                "Elasticsearch & Logstash",
+                "Tableau",
+                "ArcGIS"
+            ]
+        }
+    ],
+    "languages": [],
+    "interests": [],
+    "references": []
 }
