@@ -215,48 +215,47 @@
             "keywords": [
                 "HTML",
                 "CSS",
-                "Javascript",
-                "PHP",
                 "LAMP Stack",
                 "MEAN Stack",
                 "ReactJS",
                 "NodeJS",
+                "jQuery",
                 "Pimcore",
                 "Drupal 7/8",
                 "Wordpress",
-                "jQuery",
-                "d3js",
-                "Cordova/Phonegap",
                 "508 Compliance"
             ]
         },
         {
+            "name": "Ops/Infra",
+            "level": "",
+            "keywords": [
+                "Docker",
+                "Terraform",
+                "Ansible",
+                "Kubernetes",
+                "AWS"
+            ] 
+        {
             "name": "Software Development",
             "level": "",
             "keywords": [
-                "Java",
-                "Python",
-                "BASH",
-                "Perl",
-                "Git",
-                "Docker",
-                "Unit Testing",
                 "TDD",
                 "OOP",
                 "Functional Programming",
                 "Design Patterns",
                 "Algorithmic Analysis",
-                "RDBMS",
-                "MySQL/NoSQL"
+                "Postgres",
+                "MongoDB",
+                "Neo4j"
             ]
         },
         {
             "name": "Data Science",
             "level": "",
             "keywords": [
-                "R",
-                "Python",
                 "Pandas",
+                "Tensorflow",
                 "NumPy",
                 "NLP",
                 "Classification",
@@ -269,7 +268,7 @@
             ]
         }
     ],
-    "languages": [],
+    "languages": ["Python", "BASH", "Javascript", "PHP", "Java"],
     "interests": [],
     "references": []
 }
