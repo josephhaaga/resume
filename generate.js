@@ -32,5 +32,4 @@
   }
 
   render(base, 'JosephHaaga.en');
-  render(base, 'resume');
 }());
