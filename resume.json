@@ -2,7 +2,7 @@
     "basics": {
         "name": "Joseph Haaga",
         "label": "Developer & Data Engineer",
-        "picture": "https://pbs.twimg.com/profile_images/684062598048817152/bMtG8lln_400x400.jpg",
+        "picture": "https://joehaaga.xyz/me.jpg",
         "email": "haaga.joe@gmail.com",
         "phone": "(202) 525-6891",
         "website": "http://joehaaga.xyz",
@@ -29,17 +29,27 @@
     },
     "work": [
         {
-            "company": "Capital One"
+            "company": "Capital One",
+            "position": "Senior Data Engineer",
+            "website": "https://capitalone.com",
+            "startDate": "2019-08-29",
+            "summary": "Capital One Financial Corporation is an American bank holding company specializing in credit cards, auto loans, banking, and savings accounts, headquartered in McLean, Virginia with operations primarily in the United States",
+            "highlights": [
+               "Supported efforts to achieve compliance with enterprise Cloud security mandates",
+               "Automated reporting for cloud infrastructure vulnerability scans",
+               "Led assessment & remediation of difficult cloud modernization efforts (Terraform, Ansible, boto3)"
+            ]
         },
         {
             "company": "Tylor Data Services",
             "position": "Data Scientist",
             "website": "http://tylordata.com/",
             "startDate": "2018-10-02",
+            "endDate": "2019-08-15",
             "summary": "TDS continues to deliver data science consulting, big data analytics, and custom computer programming services that are proven to address business challenges for government agencies, non-profit organizations and private corporations.",
             "highlights": [
-                "Leading development of a graph analytics tool for fraud pattern detection in financial data graphs.",
-                "Supporting research in applying novel deep learning techniques to elicit graph embeddings."
+                "Led development of a graph analytics tool (React, Flask, Neo4j, Docker) for fraud pattern detection in financial data graphs.",
+                "Supporting research in applying novel deep learning techniques (RNN embeddings, Tensorflow, graphwave) to elicit graph embeddings."
             ]
         },
         {

@@ -1,1 +1,3 @@
-Just my resume. Nothing to see here in people. :P
+# Resume
+
+Run `node index.js` to convert `resume.json` into `compiled/JosephHaaga.en.pdf`

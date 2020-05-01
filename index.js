@@ -20,7 +20,7 @@
     //generates HTML
     fs.writeFile(compiled + "/" + filename + ".html", Handlebars.compile(tpl)({
       css: css,
-      resume: resume
+      resume: resume,
     }), {
       flag: 'w'
     }, function(err, written, buffer) {});
