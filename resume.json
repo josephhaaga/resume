@@ -270,7 +270,13 @@
             ]
         }
     ],
-    "languages": ["Python", "BASH", "Javascript", "PHP", "Java"],
+    "languages": [
+        {"language": "Python", "fluency": "advanced"},
+        {"language": "BASH", "fluency": "intermediate"},
+        {"language": "Javascript", "fluency": "intermediate"},
+        {"language": "PHP", "fluency": "beginner"},
+        {"language": "Java", "fluency": "beginner"}
+    ],
     "interests": [],
     "references": []
 }
