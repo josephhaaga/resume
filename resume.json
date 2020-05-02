@@ -35,9 +35,9 @@
             "startDate": "2019-08-29",
             "summary": "Capital One Financial Corporation is an American bank holding company specializing in credit cards, auto loans, banking, and savings accounts, headquartered in McLean, Virginia with operations primarily in the United States",
             "highlights": [
-               "Supported efforts to achieve compliance with enterprise Cloud security mandates",
-               "Automated reporting for cloud infrastructure vulnerability scans",
-               "Led assessment & remediation of difficult cloud modernization efforts (Terraform, Ansible, boto3)"
+                "Supported efforts to achieve compliance with enterprise Cloud security mandates",
+                "Automated reporting for cloud infrastructure vulnerability scans",
+                "Led assessment & remediation of difficult cloud modernization efforts (Terraform, Ansible, boto3)"
             ]
         },
         {
@@ -78,18 +78,6 @@
                 "Contributed to the architecture and development of marketing websites for brands like Strayer, Ligado, Politico, Merritt Clubs, JBG and EYA. Developed on Drupal 7, Pimcore 4/5, and Wordpress.",
                 "Drastically reduced development timelines by building internal tools to streamline internal processes (structured QA spreadsheet with Slackbot integration to close developer-designer feedback loop and closely track live performance/completeness metrics). Built using Google Apps Script, Google Sheets, and Slack Webhooks.",
                 "Delivered customer persona insights by applying data mining & visualization techniques to client CRM & transactional data. Performed analysis using Tableau and Anaconda toolkit (Seaborn, Pandas, NumPy)."
-            ]
-        },
-        {
-            "company": "GWU Data Science Institute",
-            "position": "Lead Architect",
-            "website": "https://gwu.edu",
-            "startDate": "2017-11-01",
-            "endDate": "2018-05-01",
-            "summary": "Selected to be a founding member of GWU's DSI, aiding in bootstrapping the institute as well as supporting technical initiatives.",
-            "highlights": [
-                "Led deployment efforts in standing up a cloud-hosted information sharing environment for Virginia state agencies, alongside ODNI and AWS",
-                "Mentored students in Data Warehousing classes, providing guidance on their semester projects"
             ]
         },
         {
@@ -141,14 +129,6 @@
                 "Raised >$1000 for AIGA, providing scholarships for underrepresented design students in the DC area.",
                 "Developed spreadsheet solution for long-term initiative planning, enabling tracking of the organization's impact on local, regional, and national levels."
             ]
-        },
-        {
-            "organization": "So Others Might Eat",
-            "position": "Kitchen Volunteer",
-            "website": "http://some.org/",
-            "startDate": "2011-04-01",
-            "summary": "Serving meals to marginalized people in the DMV area.",
-            "highlights": []
         }
     ],
     "education": [
@@ -271,11 +251,26 @@
         }
     ],
     "languages": [
-        {"language": "Python", "fluency": "advanced"},
-        {"language": "BASH", "fluency": "intermediate"},
-        {"language": "Javascript", "fluency": "intermediate"},
-        {"language": "PHP", "fluency": "beginner"},
-        {"language": "Java", "fluency": "beginner"}
+        {
+            "language": "Python",
+            "fluency": "advanced"
+        },
+        {
+            "language": "BASH",
+            "fluency": "intermediate"
+        },
+        {
+            "language": "Javascript",
+            "fluency": "intermediate"
+        },
+        {
+            "language": "PHP",
+            "fluency": "beginner"
+        },
+        {
+            "language": "Java",
+            "fluency": "beginner"
+        }
     ],
     "interests": [],
     "references": []
