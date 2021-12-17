@@ -1,15 +1,15 @@
 {
     "basics": {
         "name": "Joseph Haaga",
-        "label": "Developer & Data Engineer",
+        "label": "Lead MLOps Engineer",
         "picture": "https://joehaaga.xyz/me.jpg",
         "email": "haaga.joe@gmail.com",
         "phone": "(202) 525-6891",
         "website": "http://joehaaga.xyz",
         "summary": "",
         "location": {
-            "address": "2507 17th St NW Apt B",
-            "postalCode": "20009",
+            "address": "325 K St NE",
+            "postalCode": "20002",
             "city": "Washington",
             "countryCode": "US",
             "region": "D.C."
@@ -29,10 +29,41 @@
     },
     "work": [
         {
+            "company": "Interos",
+            "position": "Lead MLOps Engineer",
+            "website": "https://interos.ai",
+            "startDate": "2020-12-01",
+            "summary": "Interos is the operational resilience company — reinventing how companies manage their supply chains and business relationships — through our breakthrough cloud platform that uses artificial intelligence to model the ecosystems of complex businesses into a living global map, down to any single supplier, anywhere.",
+            "highlights": [
+                "Grew the ML Ops team from 1 to 6 in first year (4 Senior Engineers + 1 Mid-level Engineer + Lead)",
+                "Built an ML Platform supporting 45 models across 4 environments, serving 1M predictions/day. (Terraform, EKS, Kubeflow, Istio, Knative, VPC, Oauth2-proxy, ArgoCD, Gitlab CI)",
+                "Introduced development environments for 20+ engineers providing elastic compute + GPU to support experimentation. (Kubeflow Notebooks, EKS, Istio)",
+                "Spearheaded the Interos Engineering Blog, establishing a content calendar and editorial board & authoring the first content.",
+                "Provided architectural/design oversight to breakout team working on building inner-sourced shared solutions. CEO called result \"the most elegant solution to this problem I've ever seen\""
+            ]
+        },
+        {
+            "company": "Interos",
+            "position": "Senior Data Software Engineer",
+            "website": "https://interos.ai",
+            "startDate": "2020-07-28",
+            "endDate": "2020-12-01",
+            "summary": "Interos is the operational resilience company — reinventing how companies manage their supply chains and business relationships — through our breakthrough cloud platform that uses artificial intelligence to model the ecosystems of complex businesses into a living global map, down to any single supplier, anywhere.",
+            "highlights": [
+                "Evaluated and implemented common capability for ETL jobs. (Prefect on EKS).",
+                "Designed & built `prefect-deployer`, shared dev tooling used in 455 deployments of 66 ETL jobs (and counting).",
+                "Advised on architecture for platform rebuild as part of a 7-person team chosen by CTO.",
+                "Mentored and supported engineers across the company, and published educational repos to upskill others on Kafka, fixtures & dependency inversion for cleaner unit tests.",
+                "Assisted in onboarding & orienting key engineering leadership hires (Director of DevOps, Director of Data Architecture, Chief Data Scientist)",
+                "Selected by VP of Machine Learning to spearhead ML Operations practice, resulting in promotion to Lead MLOps Engineer."
+            ]
+        },
+        {
             "company": "Capital One",
             "position": "Senior Data Engineer",
             "website": "https://capitalone.com",
             "startDate": "2019-08-29",
+            "endDate": "2020-07-28",
             "summary": "Capital One Financial Corporation is an American bank holding company specializing in credit cards, auto loans, banking, and savings accounts, headquartered in McLean, Virginia with operations primarily in the United States",
             "highlights": [
                 "Supported efforts to achieve compliance with enterprise Cloud security mandates",
@@ -133,6 +164,12 @@
     ],
     "education": [
         {
+            "institution": "AWS",
+            "area": "Associate",
+            "studyType": "Solutions Architect",
+            "startDate": "2019-01-01"
+        },
+        {
             "institution": "Georgia Tech",
             "area": "Computer Science",
             "studyType": "M.Sc.",
@@ -215,7 +252,14 @@
                 "Terraform",
                 "Ansible",
                 "Kubernetes",
-                "AWS"
+                "EKS",
+                "AWS",
+                "Datadog",
+                "Gitlab CI",
+                "ArgoCD",
+                "Knative",
+                "Istio",
+                "Kubeflow"
             ]
         },
         {
@@ -238,6 +282,9 @@
             "keywords": [
                 "Pandas",
                 "Tensorflow",
+                "Huggingface Transformers",
+                "SpaCy",
+                "Pytorch",
                 "NumPy",
                 "NLP",
                 "Classification",
@@ -257,6 +304,10 @@
         },
         {
             "language": "BASH",
+            "fluency": "advanced"
+        },
+        {
+            "language": "SQL",
             "fluency": "intermediate"
         },
         {
