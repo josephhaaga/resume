@@ -39,7 +39,7 @@
                 "Built an ML Platform supporting 45 models across 4 environments, serving 1M predictions/day. (Terraform, EKS, Kubeflow, Istio, Knative, VPC, Oauth2-proxy, ArgoCD, Gitlab CI)",
                 "Introduced development environments for 20+ engineers providing elastic compute + GPU to support experimentation. (Kubeflow Notebooks, EKS, Istio)",
                 "Spearheaded the Interos Engineering Blog, establishing a content calendar and editorial board & authoring the first content.",
-                "Provided architectural/design oversight to breakout team working on building inner-sourced shared solutions. CEO called result \"the most elegant solution to this problem I've ever seen\""
+                "Provided architectural/design oversight to breakout team working on building inner-sourced shared solutions. CTO called result \"the most elegant solution to this problem I've ever seen\""
             ]
         },
         {
