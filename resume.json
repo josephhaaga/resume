@@ -4,12 +4,9 @@
         "label": "Lead MLOps Engineer",
         "picture": "https://joehaaga.xyz/me.jpg",
         "email": "haaga.joe@gmail.com",
-        "phone": "(202) 525-6891",
         "website": "http://joehaaga.xyz",
         "summary": "",
         "location": {
-            "address": "325 K St NE",
-            "postalCode": "20002",
             "city": "Washington",
             "countryCode": "US",
             "region": "D.C."
