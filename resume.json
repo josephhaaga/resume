@@ -26,10 +26,23 @@
     },
     "work": [
         {
+            "company": "BuzzFeed",
+            "position": "Principal Software Engineer",
+            "website": "https://buzzfeed.com",
+            "startDate": "2022-11-07",
+            "summary": "BuzzFeed, Inc. is an American Internet media, news and entertainment company with a focus on digital media.",
+            "highlights": [
+                "Hired to formalize and scale the ML Platform across BuzzFeed properties including Tasty, Huffington Post, Complex and more.",
+                "Led two week infrastructure consolidation effort, reducing spend by 50% and saving tens of thousands of dollars every month.",
+                "Spearheaded incident response investigations, identifying the root causes of outages, recommending remediations, and providing regular summary updates to stakeholders."
+            ]
+        },
+        {
             "company": "Interos",
             "position": "Lead MLOps Engineer",
             "website": "https://interos.ai",
             "startDate": "2020-12-01",
+            "endDate": "2022-11-06",
             "summary": "Interos is the operational resilience company — reinventing how companies manage their supply chains and business relationships — through our breakthrough cloud platform that uses artificial intelligence to model the ecosystems of complex businesses into a living global map, down to any single supplier, anywhere.",
             "highlights": [
                 "Grew the ML Platform team from 1 to 6 in first year (4 Senior Engineers + 1 Mid-level Engineer + Lead)",
