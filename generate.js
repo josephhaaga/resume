@@ -25,6 +25,7 @@
       flag: 'w'
     }, function(err, written, buffer) {});
 
+    debugger;
     // generates PDF
     var program = phantomjs.exec('./scripts/rasterize.js', './compiled/' + filename + '.html', './compiled/' + filename + '.pdf', 'Letter')
     program.stdout.pipe(process.stdout);
