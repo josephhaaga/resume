@@ -242,10 +242,11 @@
             "name": "Web Development",
             "level": "",
             "keywords": [
-                "HTML",
+                "HTML5",
                 "CSS",
                 "LAMP Stack",
                 "MEAN Stack",
+                "Django",
                 "ReactJS",
                 "NodeJS",
                 "jQuery",
@@ -265,6 +266,7 @@
                 "Kubernetes",
                 "EKS",
                 "AWS",
+                "Heroku",
                 "Datadog",
                 "Gitlab CI",
                 "ArgoCD",
@@ -282,15 +284,19 @@
                 "Functional Programming",
                 "Design Patterns",
                 "Algorithmic Analysis",
+                "SQL/NoSQL",
                 "Postgres",
                 "MongoDB",
-                "Neo4j"
+                "Neo4j",
+                "Elasticsearch & Logstash"
             ]
         },
         {
-            "name": "Data Science",
+            "name": "Machine Learning",
             "level": "",
             "keywords": [
+                "LLMs/ChatGPT",
+                "Prompt Engineering",
                 "Pandas",
                 "Tensorflow",
                 "Huggingface Transformers",
@@ -301,8 +307,6 @@
                 "Classification",
                 "Regression/Linear Modeling",
                 "Clustering/Unsupervised techniques",
-                "SQL/NoSQL",
-                "Elasticsearch & Logstash",
                 "Tableau",
                 "ArcGIS"
             ]
