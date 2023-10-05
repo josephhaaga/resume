@@ -266,6 +266,7 @@
                 "Kubernetes",
                 "EKS",
                 "AWS",
+                "GCP",
                 "Heroku",
                 "Datadog",
                 "Gitlab CI",
