@@ -1,345 +1,346 @@
 {
-    "basics": {
-        "name": "Joseph Haaga",
-        "label": "Lead MLOps Engineer",
-        "picture": "https://joehaaga.xyz/me.jpg",
-        "email": "haaga.joe@gmail.com",
-        "website": "http://joehaaga.xyz",
-        "summary": "",
-        "location": {
-            "city": "Washington",
-            "countryCode": "US",
-            "region": "D.C."
-        },
-        "profiles": [
-            {
-                "network": "Github",
-                "username": "josephhaaga",
-                "url": "https://github.com/josephhaaga"
-            },
-            {
-                "network": "LinkedIn",
-                "username": "joseph-haaga",
-                "url": "https://www.linkedin.com/in/joseph-haaga/"
-            }
-        ]
+  "basics": {
+    "name": "Joseph Haaga",
+    "label": "Lead MLOps Engineer",
+    "picture": "https://joehaaga.xyz/me.jpg",
+    "email": "haaga.joe@gmail.com",
+    "website": "http://joehaaga.xyz",
+    "summary": "",
+    "location": {
+      "city": "Washington",
+      "countryCode": "US",
+      "region": "D.C."
     },
-    "work": [
-        {
-            "company": "BuzzFeed",
-            "position": "Principal Software Engineer",
-            "website": "https://buzzfeed.com",
-            "startDate": "2022-11-07",
-            "summary": "BuzzFeed, Inc. is an American Internet media, news and entertainment company with a focus on digital media.",
-            "highlights": [
-                "Hired to formalize and scale the ML Platform across BuzzFeed properties including Tasty, Huffington Post, Complex and more.",
-                "Led and managed cloud infrastructure consolidation effort, reducing spend by 50% and saving tens of thousands of dollars every month.",
-                "Spearheaded incident response investigations, identifying the root causes of outages, recommending remediations, and providing regular summary updates to stakeholders.",
-                "Led design & implementation for generic Chatbot system powering Shoppy & Botatouille, featured in The New York Times. (https://www.nytimes.com/2023/05/23/business/media/buzzfeed-botatouille-chatbot-food.html)"
-            ]
-        },
-        {
-            "company": "Interos",
-            "position": "Lead MLOps Engineer",
-            "website": "https://interos.ai",
-            "startDate": "2020-12-01",
-            "endDate": "2022-11-06",
-            "summary": "Interos is the operational resilience company — reinventing how companies manage their supply chains and business relationships — through our breakthrough cloud platform that uses artificial intelligence to model the ecosystems of complex businesses into a living global map, down to any single supplier, anywhere.",
-            "highlights": [
-                "Grew the ML Platform team from 1 to 6 in first year (4 Senior Engineers + 1 Mid-level Engineer + Lead)",
-                "Built an ML Platform supporting 45 models across 4 environments, serving 1M predictions/day. (Terraform, EKS, Kubeflow, Istio, Knative, VPC, Oauth2-proxy, ArgoCD, Gitlab CI)",
-                "Introduced development environments for 20+ engineers providing elastic compute + GPU to support experimentation. (Kubeflow Notebooks, EKS, Istio)",
-                "Spearheaded the Interos Engineering Blog, establishing a content calendar and editorial board & authoring the first content.",
-                "Provided architectural/design oversight to breakout team working on building inner-sourced shared solutions. CTO called result \"the most elegant solution to this problem I've ever seen\""
-            ]
-        },
-        {
-            "company": "Interos",
-            "position": "Senior Data Software Engineer",
-            "website": "https://interos.ai",
-            "startDate": "2020-07-28",
-            "endDate": "2020-12-01",
-            "summary": "Interos is the operational resilience company — reinventing how companies manage their supply chains and business relationships — through our breakthrough cloud platform that uses artificial intelligence to model the ecosystems of complex businesses into a living global map, down to any single supplier, anywhere.",
-            "highlights": [
-                "Evaluated and implemented common capability for ETL jobs. (Prefect on EKS).",
-                "Designed & built `prefect-deployer`, shared dev tooling used in 455 deployments of 66 ETL jobs (and counting).",
-                "Advised on architecture for platform rebuild as part of a 7-person team chosen by CTO.",
-                "Mentored and supported engineers across the company, and published educational repos to upskill others on Kafka, fixtures & dependency inversion for cleaner unit tests.",
-                "Assisted in onboarding & orienting key engineering leadership hires (Director of DevOps, Director of Data Architecture, Chief Data Scientist)",
-                "Selected by VP of Machine Learning to spearhead ML Operations practice, resulting in promotion to Lead MLOps Engineer."
-            ]
-        },
-        {
-            "company": "Capital One",
-            "position": "Senior Data Engineer",
-            "website": "https://capitalone.com",
-            "startDate": "2019-08-29",
-            "endDate": "2020-07-28",
-            "summary": "Capital One Financial Corporation is an American bank holding company specializing in credit cards, auto loans, banking, and savings accounts, headquartered in McLean, Virginia with operations primarily in the United States",
-            "highlights": [
-                "Supported efforts to achieve compliance with enterprise Cloud security mandates",
-                "Automated reporting for cloud infrastructure vulnerability scans",
-                "Led assessment & remediation of difficult cloud modernization efforts (Terraform, Ansible, boto3)"
-            ]
-        },
-        {
-            "company": "Tylor Data Services",
-            "position": "Data Scientist",
-            "website": "http://tylordata.com/",
-            "startDate": "2018-10-02",
-            "endDate": "2019-08-15",
-            "summary": "TDS continues to deliver data science consulting, big data analytics, and custom computer programming services that are proven to address business challenges for government agencies, non-profit organizations and private corporations.",
-            "highlights": [
-                "Led development of a graph analytics tool (React, Flask, Neo4j, Docker) for fraud pattern detection in financial data graphs.",
-                "Supporting research in applying novel deep learning techniques (RNN embeddings, Tensorflow, graphwave) to elicit graph embeddings."
-            ]
-        },
-        {
-            "company": "Redhorse Corporation",
-            "position": "Data Scientist",
-            "website": "https://redhorsecorp.com",
-            "startDate": "2018-06-11",
-            "endDate": "2018-10-01",
-            "summary": "Redhorse Corporation, a program management and technology services company, provides integrated solutions in environmental consulting, energy and climate change, information technology, and intelligence.",
-            "highlights": [
-                "Designed and implemented a image recognition application for environmental science use case.",
-                "Experimented with different convolutional neural network architectures to maximize F1 score.",
-                "Built custom sklearn Pipeline components to take advantage of OpenCV preprocessing techniques.",
-                "Developed web-based utility resulting in a 10x decrease in time spent labelling training data."
-            ]
-        },
-        {
-            "company": "Grafik",
-            "position": "Full Stack Developer",
-            "website": "https://grafik.agency",
-            "startDate": "2016-08-01",
-            "endDate": "2018-06-01",
-            "summary": "Grafik is a branding agency focused on crafting digital brands for B2B, B2C, Nonprofit and government clients worldwide.",
-            "highlights": [
-                "Led architecture and development of CMS-driven solutions for clients like Strayer & Global Automakers, using Drupal 8 and Pimcore 5.",
-                "Contributed to the architecture and development of marketing websites for brands like Strayer, Ligado, Politico, Merritt Clubs, JBG and EYA. Developed on Drupal 7, Pimcore 4/5, and Wordpress.",
-                "Drastically reduced development timelines by building internal tools to streamline internal processes (structured QA spreadsheet with Slackbot integration to close developer-designer feedback loop and closely track live performance/completeness metrics). Built using Google Apps Script, Google Sheets, and Slack Webhooks.",
-                "Delivered customer persona insights by applying data mining & visualization techniques to client CRM & transactional data. Performed analysis using Tableau and Anaconda toolkit (Seaborn, Pandas, NumPy)."
-            ]
-        },
-        {
-            "company": "Gray Street Solutions",
-            "position": "Developer",
-            "website": "https://graystreetsolutions.com",
-            "startDate": "2015-05-01",
-            "endDate": "2016-07-25",
-            "summary": "Gray Street Solutions is a boutique, digital-first creative agency, founded on the principle of bringing a \u201cFearlessly Agile\u201d approach to online communications consulting, open-source web development, and social media campaign management.",
-            "highlights": [
-                "Led development of a cross-platform mobile application to track a brand\u2019s social media campaigns, using Apache Cordova and Adobe PhoneGap.",
-                "Developed and maintained digital presences for a variety of trade organizations, defense companies, and nonprofit clients. Developed on Wordpress and maintained on WPEngine managed hosting."
-            ]
-        },
-        {
-            "company": "Eastport Analytics",
-            "position": "Jr. Solutioneer",
-            "website": "https://www.eastportanalytics.com/",
-            "startDate": "2014-05-01",
-            "endDate": "2014-08-25",
-            "summary": "Eastport Analytics is an analytics consulting group applying advanced analytics to uncover valuable insights and drive measurably better mission outcomes.",
-            "highlights": [
-                "Developed automated spreadsheet parsers in Java 7.",
-                "Merged GIS shapefiles with political ad spend data to determine campaign efficacy in Designated Market Areas."
-            ]
-        },
-        {
-            "company": "@HomeRehab",
-            "position": "Developer",
-            "website": "https://gust.com/companies/homerehab",
-            "startDate": "2013-05-01",
-            "endDate": "2014-04-30",
-            "summary": "@HomeRehab designs exercise devices and software to improve the continuum of care related to falls among the aging population.",
-            "highlights": [
-                "Prototyped IoT orthopedic rehabilitative device on Arduino hardware in a dialect of C.",
-                "Developed games to be played with the device to aid in gamification of proprioceptive rehabilitation exercises.",
-                "Implement wireless modules (XBee), LCD screens, & various sensors/actuators within I/O constraints of a development board."
-            ]
-        }
-    ],
-    "volunteer": [
-        {
-            "organization": "Grafik Gives",
-            "position": "Coordinator & Volunteer",
-            "website": "https://grafik.agency",
-            "startDate": "2017-08-01",
-            "summary": "Introduce potential initiatives and coordinate CSR events.",
-            "highlights": [
-                "Raised >$1000 for AIGA, providing scholarships for underrepresented design students in the DC area.",
-                "Developed spreadsheet solution for long-term initiative planning, enabling tracking of the organization's impact on local, regional, and national levels."
-            ]
-        }
-    ],
-    "education": [
-        {
-            "institution": "AWS",
-            "area": "Associate",
-            "studyType": "Solutions Architect",
-            "startDate": "2019-01-01"
-        },
-        {
-            "institution": "Georgia Tech",
-            "area": "Computer Science",
-            "studyType": "M.Sc.",
-            "startDate": "2019-01-01",
-            "courses": [
-                "Software Analysis and Testing",
-                "Software Architecture and Design"
-            ]
-        },
-        {
-            "institution": "The George Washington University",
-            "area": "Data Science",
-            "studyType": "M.Sc.",
-            "startDate": "2017-08-01",
-            "endDate": "2018-12-16",
-            "gpa": "3.92",
-            "courses": [
-                "Data Science",
-                "Data Warehousing",
-                "Data Mining",
-                "Visualization of Complex Data",
-                "Machine Learning I",
-                "Machine Learning II",
-                "Time Series Analysis",
-                "Cloud Computing",
-                "Bayesian Methods",
-                "Member of Graduate Consulting Club",
-                "Member of MBA Business Analytics Club",
-                "President of MS Data Science Student Council"
-            ]
-        },
-        {
-            "institution": "The George Washington University",
-            "area": "Computer Science",
-            "studyType": "B.Sc.",
-            "startDate": "2012-08-01",
-            "endDate": "2017-05-01",
-            "gpa": "",
-            "courses": [
-                "Circuit Theory",
-                "Bioinformatics",
-                "Algorithms",
-                "Software Engineering",
-                "Database Systems",
-                "Systems Architecture",
-                "Operating Systems",
-                "Machine Learning",
-                "Systems Programming",
-                "Artificial Intelligence Algorithms",
-                "Statistical NLP",
-                "DEEPQuest IBM Watson (essentially a supplement to Stat. NLP)"
-            ]
-        }
-    ],
-    "awards": [],
-    "publications": [],
-    "skills": [
-        {
-            "name": "Web Development",
-            "level": "",
-            "keywords": [
-                "HTML5",
-                "CSS",
-                "LAMP Stack",
-                "MEAN Stack",
-                "Django",
-                "ReactJS",
-                "NodeJS",
-                "jQuery",
-                "Pimcore",
-                "Drupal 7/8",
-                "Wordpress",
-                "508 Compliance"
-            ]
-        },
-        {
-            "name": "Ops/Infra",
-            "level": "",
-            "keywords": [
-                "Serverless",
-                "Docker",
-                "Terraform",
-                "Ansible",
-                "Kubernetes",
-                "EKS",
-                "AWS",
-                "GCP",
-                "Heroku",
-                "Datadog",
-                "Gitlab CI",
-                "ArgoCD",
-                "Knative",
-                "Istio",
-                "Kubeflow"
-            ]
-        },
-        {
-            "name": "Software Development",
-            "level": "",
-            "keywords": [
-                "TDD",
-                "OOP",
-                "Functional Programming",
-                "Design Patterns",
-                "Algorithmic Analysis",
-                "SQL/NoSQL",
-                "Postgres",
-                "MongoDB",
-                "Neo4j",
-                "Elasticsearch & Logstash"
-            ]
-        },
-        {
-            "name": "Machine Learning",
-            "level": "",
-            "keywords": [
-                "LLMs/ChatGPT",
-                "Prompt Engineering",
-                "Pandas",
-                "Tensorflow",
-                "Huggingface Transformers",
-                "SpaCy",
-                "Pytorch",
-                "NumPy",
-                "NLP",
-                "Classification",
-                "Regression/Linear Modeling",
-                "Clustering/Unsupervised techniques",
-                "Tableau",
-                "ArcGIS"
-            ]
-        }
-    ],
-    "languages": [
-        {
-            "language": "Python",
-            "fluency": "advanced"
-        },
-        {
-            "language": "BASH",
-            "fluency": "advanced"
-        },
-        {
-            "language": "SQL",
-            "fluency": "intermediate"
-        },
-        {
-            "language": "Javascript",
-            "fluency": "intermediate"
-        },
-        {
-            "language": "PHP",
-            "fluency": "beginner"
-        },
-        {
-            "language": "Java",
-            "fluency": "beginner"
-        }
-    ],
-    "interests": [],
-    "references": []
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "josephhaaga",
+        "url": "https://github.com/josephhaaga"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "joseph-haaga",
+        "url": "https://www.linkedin.com/in/joseph-haaga/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "BuzzFeed",
+      "position": "Principal Software Engineer",
+      "website": "https://buzzfeed.com",
+      "startDate": "2022-11-07",
+      "summary": "BuzzFeed, Inc. is an American Internet media, news and entertainment company with a focus on digital media.",
+      "highlights": [
+        "Hired to formalize and scale the ML Platform across BuzzFeed properties including Tasty, Huffington Post, Complex and more.",
+        "Led and managed cloud infrastructure consolidation effort, reducing spend by 50% and saving tens of thousands of dollars every month.",
+        "Spearheaded incident response investigations, identifying the root causes of outages, recommending remediations, and providing regular summary updates to stakeholders.",
+        "Led design & implementation for generic Chatbot system powering Shoppy & Botatouille, featured in The New York Times. (https://www.nytimes.com/2023/05/23/business/media/buzzfeed-botatouille-chatbot-food.html)",
+        "Advised on modern Python tooling and DevEx through multiple platform modernization initiatives"
+      ]
+    },
+    {
+      "company": "Interos",
+      "position": "Lead MLOps Engineer",
+      "website": "https://interos.ai",
+      "startDate": "2020-12-01",
+      "endDate": "2022-11-06",
+      "summary": "Interos is the operational resilience company — reinventing how companies manage their supply chains and business relationships — through our breakthrough cloud platform that uses artificial intelligence to model the ecosystems of complex businesses into a living global map, down to any single supplier, anywhere.",
+      "highlights": [
+        "Grew the ML Platform team from 1 to 6 in first year (4 Senior Engineers + 1 Mid-level Engineer + Lead)",
+        "Built an ML Platform supporting 45 models across 4 environments, serving 1M predictions/day. (Terraform, EKS, Kubeflow, Istio, Knative, VPC, Oauth2-proxy, ArgoCD, Gitlab CI)",
+        "Introduced development environments for 20+ engineers providing elastic compute + GPU to support experimentation. (Kubeflow Notebooks, EKS, Istio)",
+        "Spearheaded the Interos Engineering Blog, establishing a content calendar and editorial board & authoring the first content.",
+        "Provided architectural/design oversight to breakout team working on building inner-sourced shared solutions. CTO called result \"the most elegant solution to this problem I've ever seen\""
+      ]
+    },
+    {
+      "company": "Interos",
+      "position": "Senior Data Software Engineer",
+      "website": "https://interos.ai",
+      "startDate": "2020-07-28",
+      "endDate": "2020-12-01",
+      "summary": "Interos is the operational resilience company — reinventing how companies manage their supply chains and business relationships — through our breakthrough cloud platform that uses artificial intelligence to model the ecosystems of complex businesses into a living global map, down to any single supplier, anywhere.",
+      "highlights": [
+        "Evaluated and implemented common capability for ETL jobs. (Prefect on EKS).",
+        "Designed & built `prefect-deployer`, shared dev tooling used in 455 deployments of 66 ETL jobs (and counting).",
+        "Advised on architecture for platform rebuild as part of a 7-person team chosen by CTO.",
+        "Mentored and supported engineers across the company, and published educational repos to upskill others on Kafka, fixtures & dependency inversion for cleaner unit tests.",
+        "Assisted in onboarding & orienting key engineering leadership hires (Director of DevOps, Director of Data Architecture, Chief Data Scientist)",
+        "Selected by VP of Machine Learning to spearhead ML Operations practice, resulting in promotion to Lead MLOps Engineer."
+      ]
+    },
+    {
+      "company": "Capital One",
+      "position": "Senior Data Engineer",
+      "website": "https://capitalone.com",
+      "startDate": "2019-08-29",
+      "endDate": "2020-07-28",
+      "summary": "Capital One Financial Corporation is an American bank holding company specializing in credit cards, auto loans, banking, and savings accounts, headquartered in McLean, Virginia with operations primarily in the United States",
+      "highlights": [
+        "Supported efforts to achieve compliance with enterprise Cloud security mandates",
+        "Automated reporting for cloud infrastructure vulnerability scans",
+        "Led assessment & remediation of difficult cloud modernization efforts (Terraform, Ansible, boto3)"
+      ]
+    },
+    {
+      "company": "Tylor Data Services",
+      "position": "Data Scientist",
+      "website": "http://tylordata.com/",
+      "startDate": "2018-10-02",
+      "endDate": "2019-08-15",
+      "summary": "TDS continues to deliver data science consulting, big data analytics, and custom computer programming services that are proven to address business challenges for government agencies, non-profit organizations and private corporations.",
+      "highlights": [
+        "Led development of a graph analytics tool (React, Flask, Neo4j, Docker) for fraud pattern detection in financial data graphs.",
+        "Supporting research in applying novel deep learning techniques (RNN embeddings, Tensorflow, graphwave) to elicit graph embeddings."
+      ]
+    },
+    {
+      "company": "Redhorse Corporation",
+      "position": "Data Scientist",
+      "website": "https://redhorsecorp.com",
+      "startDate": "2018-06-11",
+      "endDate": "2018-10-01",
+      "summary": "Redhorse Corporation, a program management and technology services company, provides integrated solutions in environmental consulting, energy and climate change, information technology, and intelligence.",
+      "highlights": [
+        "Designed and implemented a image recognition application for environmental science use case.",
+        "Experimented with different convolutional neural network architectures to maximize F1 score.",
+        "Built custom sklearn Pipeline components to take advantage of OpenCV preprocessing techniques.",
+        "Developed web-based utility resulting in a 10x decrease in time spent labelling training data."
+      ]
+    },
+    {
+      "company": "Grafik",
+      "position": "Full Stack Developer",
+      "website": "https://grafik.agency",
+      "startDate": "2016-08-01",
+      "endDate": "2018-06-01",
+      "summary": "Grafik is a branding agency focused on crafting digital brands for B2B, B2C, Nonprofit and government clients worldwide.",
+      "highlights": [
+        "Led architecture and development of CMS-driven solutions for clients like Strayer & Global Automakers, using Drupal 8 and Pimcore 5.",
+        "Contributed to the architecture and development of marketing websites for brands like Strayer, Ligado, Politico, Merritt Clubs, JBG and EYA. Developed on Drupal 7, Pimcore 4/5, and Wordpress.",
+        "Drastically reduced development timelines by building internal tools to streamline internal processes (structured QA spreadsheet with Slackbot integration to close developer-designer feedback loop and closely track live performance/completeness metrics). Built using Google Apps Script, Google Sheets, and Slack Webhooks.",
+        "Delivered customer persona insights by applying data mining & visualization techniques to client CRM & transactional data. Performed analysis using Tableau and Anaconda toolkit (Seaborn, Pandas, NumPy)."
+      ]
+    },
+    {
+      "company": "Gray Street Solutions",
+      "position": "Developer",
+      "website": "https://graystreetsolutions.com",
+      "startDate": "2015-05-01",
+      "endDate": "2016-07-25",
+      "summary": "Gray Street Solutions is a boutique, digital-first creative agency, founded on the principle of bringing a \u201cFearlessly Agile\u201d approach to online communications consulting, open-source web development, and social media campaign management.",
+      "highlights": [
+        "Led development of a cross-platform mobile application to track a brand\u2019s social media campaigns, using Apache Cordova and Adobe PhoneGap.",
+        "Developed and maintained digital presences for a variety of trade organizations, defense companies, and nonprofit clients. Developed on Wordpress and maintained on WPEngine managed hosting."
+      ]
+    },
+    {
+      "company": "Eastport Analytics",
+      "position": "Jr. Solutioneer",
+      "website": "https://www.eastportanalytics.com/",
+      "startDate": "2014-05-01",
+      "endDate": "2014-08-25",
+      "summary": "Eastport Analytics is an analytics consulting group applying advanced analytics to uncover valuable insights and drive measurably better mission outcomes.",
+      "highlights": [
+        "Developed automated spreadsheet parsers in Java 7.",
+        "Merged GIS shapefiles with political ad spend data to determine campaign efficacy in Designated Market Areas."
+      ]
+    },
+    {
+      "company": "@HomeRehab",
+      "position": "Developer",
+      "website": "https://gust.com/companies/homerehab",
+      "startDate": "2013-05-01",
+      "endDate": "2014-04-30",
+      "summary": "@HomeRehab designs exercise devices and software to improve the continuum of care related to falls among the aging population.",
+      "highlights": [
+        "Prototyped IoT orthopedic rehabilitative device on Arduino hardware in a dialect of C.",
+        "Developed games to be played with the device to aid in gamification of proprioceptive rehabilitation exercises.",
+        "Implement wireless modules (XBee), LCD screens, & various sensors/actuators within I/O constraints of a development board."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Grafik Gives",
+      "position": "Coordinator & Volunteer",
+      "website": "https://grafik.agency",
+      "startDate": "2017-08-01",
+      "summary": "Introduce potential initiatives and coordinate CSR events.",
+      "highlights": [
+        "Raised >$1000 for AIGA, providing scholarships for underrepresented design students in the DC area.",
+        "Developed spreadsheet solution for long-term initiative planning, enabling tracking of the organization's impact on local, regional, and national levels."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "AWS",
+      "area": "Associate",
+      "studyType": "Solutions Architect",
+      "startDate": "2019-01-01"
+    },
+    {
+      "institution": "Georgia Tech",
+      "area": "Computer Science",
+      "studyType": "M.Sc.",
+      "startDate": "2019-01-01",
+      "courses": [
+        "Software Analysis and Testing",
+        "Software Architecture and Design"
+      ]
+    },
+    {
+      "institution": "The George Washington University",
+      "area": "Data Science",
+      "studyType": "M.Sc.",
+      "startDate": "2017-08-01",
+      "endDate": "2018-12-16",
+      "gpa": "3.92",
+      "courses": [
+        "Data Science",
+        "Data Warehousing",
+        "Data Mining",
+        "Visualization of Complex Data",
+        "Machine Learning I",
+        "Machine Learning II",
+        "Time Series Analysis",
+        "Cloud Computing",
+        "Bayesian Methods",
+        "Member of Graduate Consulting Club",
+        "Member of MBA Business Analytics Club",
+        "President of MS Data Science Student Council"
+      ]
+    },
+    {
+      "institution": "The George Washington University",
+      "area": "Computer Science",
+      "studyType": "B.Sc.",
+      "startDate": "2012-08-01",
+      "endDate": "2017-05-01",
+      "gpa": "",
+      "courses": [
+        "Circuit Theory",
+        "Bioinformatics",
+        "Algorithms",
+        "Software Engineering",
+        "Database Systems",
+        "Systems Architecture",
+        "Operating Systems",
+        "Machine Learning",
+        "Systems Programming",
+        "Artificial Intelligence Algorithms",
+        "Statistical NLP",
+        "DEEPQuest IBM Watson (essentially a supplement to Stat. NLP)"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "HTML5",
+        "CSS",
+        "LAMP Stack",
+        "MEAN Stack",
+        "Django",
+        "ReactJS",
+        "NodeJS",
+        "jQuery",
+        "Pimcore",
+        "Drupal 7/8",
+        "Wordpress",
+        "508 Compliance"
+      ]
+    },
+    {
+      "name": "Ops/Infra",
+      "level": "",
+      "keywords": [
+        "Serverless",
+        "Docker",
+        "Terraform",
+        "Ansible",
+        "Kubernetes",
+        "EKS",
+        "AWS",
+        "GCP",
+        "Heroku",
+        "Datadog",
+        "Gitlab CI",
+        "ArgoCD",
+        "Knative",
+        "Istio",
+        "Kubeflow"
+      ]
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": [
+        "TDD",
+        "OOP",
+        "Functional Programming",
+        "Design Patterns",
+        "Algorithmic Analysis",
+        "SQL/NoSQL",
+        "Postgres",
+        "MongoDB",
+        "Neo4j",
+        "Elasticsearch & Logstash"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "level": "",
+      "keywords": [
+        "LLMs/ChatGPT",
+        "Prompt Engineering",
+        "Pandas",
+        "Tensorflow",
+        "Huggingface Transformers",
+        "SpaCy",
+        "Pytorch",
+        "NumPy",
+        "NLP",
+        "Classification",
+        "Regression/Linear Modeling",
+        "Clustering/Unsupervised techniques",
+        "Tableau",
+        "ArcGIS"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Python",
+      "fluency": "advanced"
+    },
+    {
+      "language": "BASH",
+      "fluency": "advanced"
+    },
+    {
+      "language": "SQL",
+      "fluency": "intermediate"
+    },
+    {
+      "language": "Javascript",
+      "fluency": "intermediate"
+    },
+    {
+      "language": "PHP",
+      "fluency": "beginner"
+    },
+    {
+      "language": "Java",
+      "fluency": "beginner"
+    }
+  ],
+  "interests": [],
+  "references": []
 }
