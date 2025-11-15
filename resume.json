@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Joseph Haaga",
-    "label": "Lead MLOps Engineer",
+    "label": "Principal Software Engineer",
     "picture": "https://joehaaga.xyz/me.jpg",
     "email": "haaga.joe@gmail.com",
     "website": "http://joehaaga.xyz",
@@ -33,10 +33,15 @@
       "summary": "BuzzFeed, Inc. is an American Internet media, news and entertainment company with a focus on digital media.",
       "highlights": [
         "Hired to formalize and scale the ML Platform across BuzzFeed properties including Tasty, Huffington Post, Complex and more.",
-        "Led and managed cloud infrastructure consolidation effort, reducing spend by 50% and saving tens of thousands of dollars every month.",
-        "Spearheaded incident response investigations, identifying the root causes of outages, recommending remediations, and providing regular summary updates to stakeholders.",
-        "Led design & implementation for generic Chatbot system powering Shoppy & Botatouille, featured in The New York Times. (https://www.nytimes.com/2023/05/23/business/media/buzzfeed-botatouille-chatbot-food.html)",
-        "Advised on modern Python tooling and DevEx through multiple platform modernization initiatives"
+        "Built enterprise ML platform infrastructure serving BuzzFeed Engineering, including NSQ-based real-time feature inference architecture, and automated model deployment from KFP training pipelines.",
+        "Led and managed cloud infrastructure consolidation effort, reducing spend by 50% for monthly savings of $10,000+",
+        "Spearheaded incident response investigations, identifying the root causes of outages, recommending remediations, and providing cross-team coordination.",
+        "Advised on modern Python tooling and DevEx through multiple platform modernization initiatives",
+        "Consulted with chief architect on LLM/agent-friendly dev framework, shaping  effective strategy for engineering org",
+        "Mentored senior engineers across multiple teams while providing technical guidance, peer reviews, and leadership coaching.",
+        "Drove strategic product vision for AI-powered content creation through cross-functional collaboration with Editorial, Analytics, and Engineering teams",
+        "Delivered measurable business impact through Recommendation System pipeline optimizations achieving 4.1% CTR improvement for anonymous users",
+        "Recognized for exceptional technical problem-solving, identifying root causes in complex distributed systems and implementing rapid fixes for production failures affecting multiple stakeholder teams"
       ]
     },
     {
